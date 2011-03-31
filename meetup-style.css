@@ -1,0 +1,24 @@
+html { height: 100% }
+body { height: 100%; margin: 0px; padding: 0px }
+#map_canvas { height: 100% }
+body {
+	background-color: #000000;
+}
+body {
+	color: #000000;
+}
+p, h1, h2, form {
+	color: #FFFFFF;
+	font-family:Arial, Sans-serif;
+}
+a{
+	color: #FF0000;
+	padding: 0;
+}
+#topdiv { height:107px; }
+#map_canvas { 
+	width: 100%";
+}
+img{
+border: none;
+}
